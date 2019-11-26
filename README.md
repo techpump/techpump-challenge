@@ -1,4 +1,4 @@
-# bcn-challenge
+# techpump-challenge
 
 ### Steps
 1. make install
