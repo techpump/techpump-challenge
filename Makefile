@@ -16,7 +16,7 @@ stop:
 
 composer-install:
 	$(info Make: Install composer dependencies.)
-	@docker-compose run bcn-challenge-php bash -c "composer install"
+	@docker-compose run techpump-challenge-php bash -c "composer install"
 
 install:
 	@make -s build
